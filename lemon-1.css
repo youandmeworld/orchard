@@ -20,7 +20,7 @@ body{width:100vw;height: 3400px ;background-color: #FDFBF4;}
    
 
 .container{width: 100%;margin-left: 360px; margin-right: 360px; padding-top:47px;}
-.main{width:100%; height:715px;background-image: url(img/lemon-main.png); background-repeat: no-repeat;
+.main{width:100%; height:715px;background-image: url(./img/lemon-main.png); background-repeat: no-repeat;
         overflow: hidden; mix-blend-mode: multiply;}
 .main h1{font-family: 'NEIMA',serif, regular;
         color:#335A35;
