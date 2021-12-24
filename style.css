@@ -20,7 +20,7 @@ body{width:100vw;height: 5508px ;background-color: #FDFBF4;margin: auto;}
    
 
 .container{width: 100%;margin-left: 360px; margin-right: 360px; padding-top:47px;}
-.main{width:100%; height:920px;background-image: url(/img/main.png); background-repeat: no-repeat;}
+.main{width:100%; height:920px;background-image: url(./img/main.png); background-repeat: no-repeat;}
 .main h1{font-family: 'NEIMA',serif, light;
         color:#335A35;
         font-size: 5em;
@@ -45,7 +45,7 @@ body{width:100vw;height: 5508px ;background-color: #FDFBF4;margin: auto;}
 
 
 .plantlist{width: 100%; height: 1679px;margin: 0;font-family: 'NEIMA',serif; color: #335A35;
-            background-image: url(/img/list-bg.png);
+            background-image: url(./img/list-bg.png);
             background-repeat: no-repeat;}
 .plantlist h1{font-size:9em;padding-left: 102px; padding-top: 204px; padding-bottom: 97px;margin: 0;}
 .circle {display: block;position: absolute; top: 1%;}
@@ -62,30 +62,30 @@ body{width:100vw;height: 5508px ;background-color: #FDFBF4;margin: auto;}
 .parent p{font-size: 2em;padding: 32px;margin: 0;}
 
     .div1 { grid-area: 1 / 1 / 5 / 5; height: 346px;overflow: hidden;
-            background-image: url(/img/lemon.png);background-repeat: no-repeat; background-size: cover;
+            background-image: url(./img/lemon.png);background-repeat: no-repeat; background-size: cover;
           }
     .div2 { grid-area: 1 / 5 / 5 / 9; overflow: hidden;background-size: cover;
-        background-image: url(/img/olive.png);
+        background-image: url(./img/olive.png);
         background-repeat: no-repeat;
         background-color: #CFD6CF;}
     .div3 { grid-area: 1 / 9 / 5 / 13; overflow: hidden;
-        background-image: url(/img/avocado.png);
+        background-image: url(./img/avocado.png);
         background-repeat: no-repeat;
         background-size: cover;
         background-color: #E3DFD2;}
     .div4 { grid-area: 5 / 1 / 9 / 7;height: 346px; overflow: hidden;
-            background-image: url(/img/kiwi.png);
+            background-image: url(./img/kiwi.png);
             background-repeat: no-repeat;
             background-size: cover;
             background-color: #EDE7D6;}
     .div5 { grid-area: 5 / 7 / 9 / 13; overflow: hidden;
-        background-image: url(/img/pig.png);background-repeat: no-repeat;background-size: cover;}
+        background-image: url(./img/pig.png);background-repeat: no-repeat;background-size: cover;}
     .div6 { grid-area: 9 / 5 / 13 / 13; height: 346px;overflow: hidden;
-        background-image: url(/img/coffee.png);
+        background-image: url(./img/coffee.png);
         background-size: cover;
         background-color: #EFDFCD;}
     .div7 { grid-area: 9 / 1 / 13 / 5;overflow: hidden; 
-        background-image: url(/img/bluberry.png);
+        background-image: url(./img/bluberry.png);
         
         background-repeat: no-repeat;
         background-size: cover;
@@ -128,7 +128,7 @@ body{width:100vw;height: 5508px ;background-color: #FDFBF4;margin: auto;}
 
 
 .gallery{position: relative;width: 100%;height: 2573px;
-        background-image: url(/img/g-bg.png);}
+        background-image: url(./img/g-bg.png);}
 
 .gallery h1{font-family: 'NEIMA',serif, regular;
   color:#335A35;
